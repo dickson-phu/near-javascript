@@ -1,0 +1,1 @@
+export declare class NonFungibleToken implements NonFungibleTokenCore, NonFungibleTokenResolver, NonFungibleTokenApproval, NonFungibleTokenEnumeration {
